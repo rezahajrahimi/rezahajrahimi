@@ -1,7 +1,7 @@
 # Hi there, I'm Reza 👋
 
 - 🔭 I’m currently working on PHP(Laravel), Dart(Flutter) and Golang.
-- 🌱 I’m currently learning PHP source code.
+- 🌱 I’m currently learning Golang source code.
 - 💬 Ask me about everything.
 - ⚡ Fun fact: eating food and meeting new people!
 
